@@ -1,0 +1,25 @@
+.jumbotron {
+    margin-top: 25px;
+    color: #ffffff;
+    background-color: #000080;
+    text-shadow: black 0.2em 0.2em 0.2em;
+}
+
+.panel{
+    border: 1px solid darkblue;
+}
+
+.panel-heading{
+    color: #ffffff;
+    background-color: #3399dc;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+.panel-collapse{
+    color: black;
+    background-color: white;
+}
+
+body{
+    background-color: #fcffff;
+}
